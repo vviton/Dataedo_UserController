@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dataedo_UserController", "Dataedo_UserController\Dataedo_UserController.csproj", "{C33EFDE6-A077-4786-954F-8CC1CD558027}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dataedo_UserController_Test", "Dataedo_UserController_Test\Dataedo_UserController_Test.csproj", "{D9B02E69-284D-493C-8EE6-3E706AAAB483}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C33EFDE6-A077-4786-954F-8CC1CD558027}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C33EFDE6-A077-4786-954F-8CC1CD558027}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C33EFDE6-A077-4786-954F-8CC1CD558027}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C33EFDE6-A077-4786-954F-8CC1CD558027}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9B02E69-284D-493C-8EE6-3E706AAAB483}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9B02E69-284D-493C-8EE6-3E706AAAB483}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9B02E69-284D-493C-8EE6-3E706AAAB483}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9B02E69-284D-493C-8EE6-3E706AAAB483}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A771B2F8-C289-4E2C-81D2-B57F1DACB344}
+	EndGlobalSection
+EndGlobal
